@@ -1,0 +1,19 @@
+# Core Dependencies
+requests>=2.31.0
+pydantic>=2.5.0
+python-dotenv>=1.0.0
+rich>=13.7.0
+urllib3>=2.0.0
+
+# Development Dependencies
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-mock>=3.12.0
+black>=23.12.0
+pylint>=3.0.0
+mypy>=1.7.0
+flake8>=6.1.0
+
+# Optional Dependencies for Testing
+responses>=0.24.0
+faker>=20.0.0
